@@ -1,28 +1,23 @@
 <!DOCTYPE html>
 <html>
-
 	<head>
 		<meta charset="utf-8">
 		<title>First Website - Home</title>
 		<link rel="stylesheet" href="../CSS/ethans-first-website-css.css">
 	</head>
-
 	<body>		
 		<div class="container">
-                    
-			<header>
-				<h1>Welcome to Ethans first website</h1>
-				<p>I think everyone knows this by now.</p>
-                                
-                                <nav class="site-nav">
+                    <header>
+			<h1>Welcome to Ethans first website</h1>
+			<p>I think everyone knows this by now.</p>
+                        	<nav class="site-nav">
                                     <ul class="group">
                                         <li><a href="home.html">Home</a></li>
                                         <li><a href="about.html">About</a></li>
                                         <li><a href="#">Portfolio</a></li>
                                         <li><a href="#">Contact Us</a></li>
                                     </ul>
-                                </nav>
-                                
+			    	</nav>
 			</header>
             
 			<div class="content-area" style="margin-top: -3px">
